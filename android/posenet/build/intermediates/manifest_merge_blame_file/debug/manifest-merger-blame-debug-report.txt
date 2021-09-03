@@ -3,10 +3,10 @@
 3    package="org.tensorflow.lite.examples.posenet.lib" >
 4
 5    <uses-sdk
-5-->E:\Github\Gym_Bud-main\android\posenet\src\main\AndroidManifest.xml:4:3-15
+5-->C:\Users\priya\Desktop\GITHUB\git-cat\android\posenet\src\main\AndroidManifest.xml:4:3-15
 6        android:minSdkVersion="21"
-6-->E:\Github\Gym_Bud-main\android\posenet\src\main\AndroidManifest.xml:4:3-15
+6-->C:\Users\priya\Desktop\GITHUB\git-cat\android\posenet\src\main\AndroidManifest.xml:4:3-15
 7        android:targetSdkVersion="23" />
-7-->E:\Github\Gym_Bud-main\android\posenet\src\main\AndroidManifest.xml:4:3-15
+7-->C:\Users\priya\Desktop\GITHUB\git-cat\android\posenet\src\main\AndroidManifest.xml:4:3-15
 8
 9</manifest>

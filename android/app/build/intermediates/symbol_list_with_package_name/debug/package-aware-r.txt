@@ -1694,6 +1694,9 @@ drawable design_snackbar_background
 drawable dumbeeee
 drawable f
 drawable g
+drawable gif2
+drawable gifpushup
+drawable giphy
 drawable group
 drawable gym
 drawable ic_clock_black_24dp
@@ -1709,6 +1712,7 @@ drawable icn_chevron_down
 drawable icn_chevron_up
 drawable icon
 drawable image
+drawable loomie_bg
 drawable main
 drawable man
 drawable material_cursor_drawable
@@ -1931,6 +1935,8 @@ id floating
 id forever
 id ghost_view
 id ghost_view_holder
+id gif
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -1950,6 +1956,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView2
 id image_boy
 id image_girl
 id info
@@ -2180,6 +2187,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id viewPagerImageSlider
 id view_offset_helper
 id visible
 id weight_heading

@@ -14,6 +14,15 @@
         <entry key="..\:/Gym_Bud/android/app/src/main/res/layout/activity_workout.xml" value="0.23052536231884058" />
         <entry key="..\:/Gym_Bud/android/app/src/main/res/layout/tfe_pn_activity_camera.xml" value="0.25416666666666665" />
         <entry key="..\:/Gym_Bud/android/app/src/main/res/layout/tfe_pn_activity_posenet.xml" value="0.2" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/drawable/bg.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/activity_fitness.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/activity_main.xml" value="0.2328125" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/activity_sign_in.xml" value="0.2328125" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/activity_workout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/slide_item_container.xml" value="0.25" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/tfe_pn_activity_camera.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/tfe_pn_activity_posenet.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/priya/Desktop/GITHUB/git-cat/android/app/src/main/res/layout/tfe_pn_activity_test.xml" value="0.23645833333333333" />
       </map>
     </option>
   </component>
@@ -22,5 +31,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2328125" />
+      </ProjectState>
+    </option>
   </component>
 </project>
