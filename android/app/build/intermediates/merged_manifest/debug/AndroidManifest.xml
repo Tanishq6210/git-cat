@@ -17,10 +17,11 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@drawable/g"
+        android:icon="@drawable/icon_logo"
         android:label="@string/tfe_pn_app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/icon_logo"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme.Posenet" >
         <activity
             android:name="org.tensorflow.lite.examples.posenet.SignInActivity"

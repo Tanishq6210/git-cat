@@ -1711,6 +1711,7 @@ drawable ic_mtrl_chip_close_circle
 drawable icn_chevron_down
 drawable icn_chevron_up
 drawable icon
+drawable icon_logo
 drawable image
 drawable loomie_bg
 drawable main
@@ -2187,7 +2188,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id viewPagerImageSlider
 id view_offset_helper
 id visible
 id weight_heading
