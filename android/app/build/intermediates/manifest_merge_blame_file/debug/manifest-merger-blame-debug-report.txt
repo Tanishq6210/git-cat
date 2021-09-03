@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.posenet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:5:5-17
+8        android:minSdkVersion="21"
+8-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:5:5-17
+9        android:targetSdkVersion="30" />
+9-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:5:5-17
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:7:5-65
+11-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:7:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:9:5-60
+13-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:9:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:10:5-70
+14-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:10:19-67
+15
+16    <application
+16-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:12:5-45:19
+17        android:allowBackup="true"
+17-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:13:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] C:\Users\HP\.gradle\caches\transforms-3\4f6c2dff91c3be765a92ac5a9200cfd3\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/g"
+20-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:14:9-35
+21        android:label="@string/tfe_pn_app_name"
+21-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:15:9-48
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:16:9-54
+23        android:supportsRtl="true"
+23-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:17:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme.Posenet" >
+25-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:18:9-48
+26        <activity
+26-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:19:9-27:20
+27            android:name="org.tensorflow.lite.examples.posenet.SignInActivity"
+27-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:20:13-43
+28            android:exported="true" >
+28-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:21:13-36
+29            <intent-filter>
+29-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:23:17-69
+30-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:25:17-77
+32-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:28:9-30:39
+36            android:name="org.tensorflow.lite.examples.posenet.FitnessActivity"
+36-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:29:13-44
+37            android:exported="true" />
+37-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:30:13-36
+38        <activity
+38-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:31:9-33:39
+39            android:name="org.tensorflow.lite.examples.posenet.MainActivity"
+39-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:32:13-41
+40            android:exported="true" />
+40-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:33:13-36
+41        <activity
+41-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:34:9-36:39
+42            android:name="org.tensorflow.lite.examples.posenet.WorkoutActivity"
+42-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:35:13-44
+43            android:exported="true" />
+43-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:36:13-36
+44        <activity
+44-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:37:9-40:55
+45            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
+45-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:38:13-41
+46            android:exported="true"
+46-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:39:13-36
+47            android:label="@string/tfe_pn_app_name" />
+47-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:40:13-52
+48        <activity
+48-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:41:9-44:20
+49            android:name="org.tensorflow.lite.examples.posenet.CameraActivity"
+49-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:42:13-43
+50            android:exported="true" >
+50-->E:\Github\Gym_Bud-main\android\app\src\main\AndroidManifest.xml:43:13-36
+51        </activity>
+52    </application>
+53
+54</manifest>

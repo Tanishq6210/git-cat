@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\f.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_test.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fitness.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\activity_fitness.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable\\action.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gym.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\gym.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_g.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\g.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_woman.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\woman.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\main.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_workout.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\activity_workout.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tanishqqq.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\tanishqqq.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_man.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\man.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_group.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\group.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_camera.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tempmain.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\tempmain.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_backg.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\backg.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dumbeeee.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\dumbeeee.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\font_fonts.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\font\\fonts.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_pn_activity_posenet.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\layout\\tfe_pn_activity_posenet.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bells.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\bells.png"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pushup.png.flat",
+        "source": "E:\\Github\\Gym_Bud-main\\android\\app\\src\\main\\res\\drawable-v24\\pushup.png"
+    }
+]
