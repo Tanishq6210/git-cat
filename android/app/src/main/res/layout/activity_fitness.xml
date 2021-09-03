@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="#171717"
+    android:background="#2D56D0"
     android:padding="32dp">
 
     <TextView
@@ -15,7 +15,7 @@
         android:layout_marginBottom="96dp"
         android:text="BMI Calculator"
         android:gravity="center_horizontal"
-        android:textColor="#F5E6CA"
+        android:textColor="#fff"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
         android:textStyle="bold" />
 
@@ -57,7 +57,7 @@
             android:layout_marginStart="48dp"
             android:layout_marginTop="32dp"
             android:text="Weight (kg)"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:textStyle="bold" />
 
         <TextView
@@ -71,7 +71,7 @@
             android:layout_marginEnd="32dp"
             android:gravity="center_horizontal"
             android:text="Height (cm)"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -85,8 +85,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:textColorHint="#F5E6CA"
-            android:textColor="#F5E6CA"
+            android:textColorHint="#fff"
+            android:textColor="#fff"
             android:gravity="center_horizontal"
             android:layout_below="@id/weight_heading"
             android:layout_marginStart="48dp"
@@ -100,8 +100,8 @@
             android:id="@+id/height_value"
             android:layout_width="0dp"
             android:layout_weight="1"
-            android:textColor="#F5E6CA"
-            android:textColorHint="#F5E6CA"
+            android:textColor="#fff"
+            android:textColorHint="#fff"
             android:layout_height="wrap_content"
             android:layout_below="@id/height_heading"
             android:layout_alignParentEnd="true"
@@ -120,7 +120,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_height="wrap_content"
         android:background="@drawable/bg"
-        android:textColor="#F5E6CA"
+        android:textColor="#fff"
         android:layout_below="@id/weight_value"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
@@ -144,7 +144,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:text="Your BMI" />
 
         <TextView
@@ -152,7 +152,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:textSize="40sp"
             android:textStyle="bold"
             tools:text="20.2" />
@@ -162,7 +162,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:textStyle="bold"
             tools:text="Overweight" />
 
@@ -174,7 +174,7 @@
             android:text="Calculate BMI Again"
             android:gravity="center_horizontal"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            android:textColor="#F5E6CA"
+            android:textColor="#fff"
             android:textStyle="bold" />
 
     </LinearLayout>

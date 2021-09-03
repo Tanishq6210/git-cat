@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Github\\Gym_Bud-main\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "C:\\Users\\priya\\Desktop\\GITHUB\\git-cat\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\0ce2fff5fce31b5ec5c34de4566ed4da\\transformed\\appcompat-1.2.0\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\priya\\.gradle\\caches\\transforms-3\\0ce2fff5fce31b5ec5c34de4566ed4da\\transformed\\appcompat-1.2.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\579f33c052967cd8f914a4797f2643bb\\transformed\\material-1.4.0\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\priya\\.gradle\\caches\\transforms-3\\579f33c052967cd8f914a4797f2643bb\\transformed\\material-1.4.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\4f6c2dff91c3be765a92ac5a9200cfd3\\transformed\\core-1.5.0\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\priya\\.gradle\\caches\\transforms-3\\4f6c2dff91c3be765a92ac5a9200cfd3\\transformed\\core-1.5.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
