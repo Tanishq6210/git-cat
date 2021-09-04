@@ -30,7 +30,7 @@ Arhit  |  ML Developer
 
 ###  Objectives we want to achieve
 
-* We want our app to help people avoid common injuries caused during their exercise.
+* We want our app to help people avoid common injuries caused during exercise.
 
 * The app will also alert the user if there is a gross error in the posture
 
